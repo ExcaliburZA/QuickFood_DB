@@ -24,13 +24,15 @@ When asked for ID numbers for each of the people involved in the order please no
 will be populated from the database and new entries will require you to provide further information about
 the new person. 
 
-Once the order has been placed the following output will be displayed echoing the orders information as shown below
+Once the order has been placed the following output will be displayed echoing the orders information as shown below 
+
 ![Order placed](orderplaced.PNG)
 
 To update a customer's information select the 'Update customer information' option from the landing page, enter their ID number to 
-identify them and follow the remaining prompts on screen to get the updated information and finalise the updates 
+identify them and follow the remaining prompts on screen to get the updated information and finalise the updates.
 
 To view a list of incomplete orders select the 'View incomplete orders' button to display them as shown below.
+
 ![Incomplete orders](incompleteorders.PNG)
 
 To view select orders select the 'View order information' enter either the customer's ID number to view orders belonging to them or the order's ID number to view just
