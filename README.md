@@ -12,7 +12,7 @@ numbers to select a function of the program to interact with. Please ensure you 
 options provided. Depending on the option you select you may be required to enter additional numbers to 
 select more options. As with the menu, please ensure you select a number from the options provided.
 
-![Landing page](landingpage.png)
+![Landing page](landingpage.PNG)
 
 To place an order select the 'Order now' option and follow the prompts provided to enter information about yourself
 and your order. 
@@ -25,13 +25,13 @@ will be populated from the database and new entries will require you to provide 
 the new person. 
 
 Once the order has been placed the following output will be displayed echoing the orders information as shown below
-![Order placed](orderplaced.png)
+![Order placed](orderplaced.PNG)
 
 To update a customer's information select the 'Update customer information' option from the landing page, enter their ID number to 
 identify them and follow the remaining prompts on screen to get the updated information and finalise the updates 
 
 To view a list of incomplete orders select the 'View incomplete orders' button to display them as shown below.
-![Incomplete orders](incompleteorders.png)
+![Incomplete orders](incompleteorders.PNG)
 
 To view select orders select the 'View order information' enter either the customer's ID number to view orders belonging to them or the order's ID number to view just
 that individual order. When retrieving specific orders note that selecting an order using an ID number will return one unique order
